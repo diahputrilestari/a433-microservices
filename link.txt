@@ -1,0 +1,2 @@
+https://github.com/diahputrilestari/a433-microservices/tree/proyek-pertama
+https://hub.docker.com/repository/docker/diahputrilestari/item-app/general
